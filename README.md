@@ -1,6 +1,7 @@
 ## Hi there 👋
 How do I want to introduce myself
 
+I am currently working on my L3 Data Analytics 
 
 
 <!--
